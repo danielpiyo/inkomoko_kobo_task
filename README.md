@@ -25,8 +25,8 @@ This project implements a solution to extract data from KoboToolbox, save it in 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/danielpiyo/kobo_inkomoko_task.git
-cd kobo_inkomoko_task
+git clone https://github.com/danielpiyo/inkomoko_kobo_task.git
+cd inkomoko_kobo_task
 ```
  
 ### 2. Create and Activate a Virtual Environment
